@@ -2,7 +2,7 @@
 
 The first goal (and issue) is to help users find existing advice on LaTeX best practice.
 To see where we are, and to contribute, take a look at
-[the issues](issues)
+[the issues](../../issues)
 
 This project arose out of the _Help and docs for LaTeX users_ 
 TeX Hour on Thursday 2 September. You can watch the videos on 
